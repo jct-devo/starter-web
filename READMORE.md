@@ -16,6 +16,8 @@ Another meh.
 
 ## How to contribute
 
+Please fork and do pull requests
+
 ### Copyright
 
 Yadda yadda yadda
