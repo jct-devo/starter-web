@@ -15,3 +15,7 @@ Just meh.
 Another meh.
 
 ## How to contribute
+
+### Copyright
+
+Yadda yadda yadda
