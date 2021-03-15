@@ -1,7 +1,8 @@
 # Starter Web project
 
 Simple project for git/github demos.
-Some more text just to mess with you, then more changes from AFEAT branch
+Some more text just to mess with you, then more changes from AFEAT branch.
+Emergency fix on STASH
 
 ## Introduction
 
